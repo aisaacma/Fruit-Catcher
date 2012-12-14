@@ -8,7 +8,6 @@ namespace Microsoft.Kinect.Toolkit.FaceTracking
 {
     using System;
     using System.Runtime.InteropServices;
-
     /// <summary>
     /// FaceModel interface provides a way to read 3D model parameters or to transform loaded 3D model used by the 
     /// face tracker from the model space to the camera/world space
